@@ -1,7 +1,1 @@
-{
-  "version": 2,
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "dest": "/web/index.html" }
-  ]
-}
+{"app_name":"my_portfolio","version":"1.0.0","build_number":"1","package_name":"my_portfolio"}
